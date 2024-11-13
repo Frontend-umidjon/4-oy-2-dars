@@ -109,6 +109,7 @@ setInterval(setDate, 1000);
         }
         return numbers;
       }
+      console.log(getNumbersInRange(1, 9)); // [1, 2, 3, 4, 5]
 }
 
 // 3
